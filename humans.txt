@@ -1,0 +1,14 @@
+/* TEAM */
+Prometheus: Enrique Comba Riepenhausen
+Contact: ecomba [at] patheleven.com
+Twitter: @ecomba
+From: Madrid, Spain
+Living in: London, United Kingdom
+
+/* THANKS */
+Programming owl: Alberto Peña Abril
+Designing fiend: Sebastian Hermida
+Apple Fan Boy: Javier Acero Guerra
+                            
+/* SITE */
+Last update: 2014/08/30
