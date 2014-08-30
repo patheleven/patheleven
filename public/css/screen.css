@@ -1,5 +1,5 @@
 body { 
-  background: url(/img/white-background.png) 
+  background: url(/img/white-background.png);
   font: 1.2em "Lucida Grande", Helvetica, Arial, sans-serif;
 }
 a { color: #00B7FF; }
