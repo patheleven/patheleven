@@ -1,14 +1,22 @@
 /* TEAM */
-Prometheus: Enrique Comba Riepenhausen
+Instigator: Enrique Comba Riepenhausen
 Contact: ecomba [at] patheleven.com
 Twitter: @ecomba
 From: Madrid, Spain
 Living in: London, United Kingdom
 
 /* THANKS */
-Programming owl: Alberto Peña Abril
-Designing fiend: Sebastian Hermida
 Apple Fan Boy: Javier Acero Guerra
+Programming owl: Alberto Peña Abril
+The Brain: Brian Marick
+Making things happen: Raquel Laina
+Dreamer: Amalia Hernandez
+Designer par excellence: Sebastian Hermida
+
+Without this guys the first patheleven (path11 at the time) would have
+never existed and this second project would not have seen the light of the
+day. We went to some rough and amazing times together; you rock!
                             
 /* SITE */
 Last update: 2014/08/30
+Using: HTML5, CSS3, vim and the seat of a train...
