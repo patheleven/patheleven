@@ -3,7 +3,7 @@ router = express.Router()
 
 # GET home page. 
 router.get('/', (req, res)->
-  res.render('index', { title: 'patheleven - autum 2014' })
+  res.render('index', { title: 'patheleven 2014 - winter is coming' })
 )
 
 router.get('/inceptions', (req, res)->
